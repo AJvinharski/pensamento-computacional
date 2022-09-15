@@ -2,7 +2,8 @@ body {
     background: #F8F8FF
 }
 
-h1 {
+<h1 
+{
 	color: #000000;
 }
 
@@ -11,9 +12,12 @@ p {
     color: #000000;
 }
 
-#capa{
-  height: 5px;
-  width : 98px;
+#capa {
+  height: 50%;
+  width : 100%;
+  padding: 10px;
+  margin-left: 1px;
+  border: solid #000000;
 }
 
 
